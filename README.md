@@ -1,0 +1,2 @@
+# DiscordJSTemplate
+Discord Bot Template
